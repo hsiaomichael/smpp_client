@@ -3,8 +3,8 @@ import struct
 import time
 
 # SMPP server details
-SMPP_SERVER = '2401:c020:103:162f:db67:9:42:7298'
-SMPP_PORT = 9000
+SMPP_SERVER = '127.0.0.1'
+SMPP_PORT = 50000
 
 
 # SMPP credentials

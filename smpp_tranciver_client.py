@@ -338,7 +338,7 @@ def main():
     smsc_port = 50000
 
     # SMPP credentials
-    system_id = "my_system_id"
+    system_id = "my_system_id1"
     password = "my_passwd"
     source_addr = '886928090991'
     dest_addr = '00050'  # Recipient phone number

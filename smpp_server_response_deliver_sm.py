@@ -720,7 +720,7 @@ class SMPPServer:
                 if client_socket in connected_clients:
                     connected_clients.remove(client_socket)  # Remove client from the list
         logger.info("All clients unbound. Server shutdown completed.")
-        sys.exit("Server shutdown gracefully via Ctrl+C")
+        sys.exit("Server shutdown gracefully via Ctrl+C ")
         
         
 
